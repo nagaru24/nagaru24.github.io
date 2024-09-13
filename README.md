@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+These files are css and two html files for Activity2 which created by Nagaru Okawa (Nate)
